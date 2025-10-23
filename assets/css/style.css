@@ -3,11 +3,10 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, "Segoe UI", Roboto, Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #121212;
+  background-color:#e8f5e9;
   color: #2e4d38;
   line-height: 1.6;
-}
-
+#e8f5e9
 header {
   background-color: #e8f5e9;
   padding: 1rem;
