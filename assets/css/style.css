@@ -6,11 +6,10 @@ body {
   background-color:#e8f5e9;
   color: #2e4d38;
   line-height: 1.6;
-#e8f5e9
 header {
   background-color: #e8f5e9;
   padding: 1rem;
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #2e4d38;
 }
 
 header h1 {
@@ -30,7 +29,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #f0f0f0;
+  color: #2e4d38;
   text-decoration: none;
 }
 
@@ -51,9 +50,9 @@ section.intro p {
 }
 
 footer {
-  background-color: #1f1f1f;
-  border-top: 1px solid #333;
-  text-align: center;
+    background-color: #e8f5e9;
+    border-top: 1px solid #2e4d38;
+    text-align: center;
   padding: 1rem;
   font-size: 0.9rem;
 }
